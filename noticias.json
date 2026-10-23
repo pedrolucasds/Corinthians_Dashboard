@@ -1,14 +1,63 @@
 {
-  "updatedAt": "2026-10-22T22:47:12Z",
+  "updatedAt": "2026-10-23T01:34:28Z",
   "source": "Google Notícias · Corinthians",
   "feedUrl": "https://news.google.com/rss/search?q=Corinthians+futebol&hl=pt-BR&gl=BR&ceid=BR:pt-419",
   "items": [
+    {
+      "title": "FIFA confirma o Corinthians em nova competição",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd1Q0a3lTTTNwT1hDeXBjUHNPVEtUWnJFTlhVYlEwRkczM19zQkdHTVc4Q0dnMU1Cd3Q4aWF1ekU1SmNCQ3ZqVVk1Rnd2c1RaM1JVdlVMeUtzUlM5WE9qZFF1TWo2eGZlZTJpRVdaRXdnVWpQZWJjcjhtazBFbTdHcW5pc2YwUmhrNmltVmN1OEFZOEJsOHFaVVJGUWFpLXJLWkVSNjhwVW1TVExZVHM1WG5qRmtUOWFOOENJck1JYTlQNnFzYTlYOVdPdlFHSm1mTWNBdg?oc=5",
+      "summary": "FIFA confirma o Corinthians em nova competição Terra",
+      "publishedAt": "2026-10-23T00:26:00Z",
+      "source": "Terra"
+    },
+    {
+      "title": "Craque Neto: Memphis e Seedorf conversam com organizadas do Corinthians",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRzNadkpMb1pVWVpDRjhJSGZ1cURxRFgyWURySmJWQW1rU2NMVUozaUFyVTI5TktmZjVxUzFSYVE4VHJBal9vX3VGZ3BKUFJTRUw4TTRuaGdyeDJKWFBBdUU5VDFsUFVvX2tPVFV3c1FiOXVXZFd5TWJ3OXZ2VkV3M0FESVljYnJMaTdmYkdoN1dZYVZFUVk0YW5USHBqTHphQkZlTmNCczBXYVJzRXlGalQtMFBiZUppWmZmZjgydHBKcjhscEVkNw?oc=5",
+      "summary": "Craque Neto: Memphis e Seedorf conversam com organizadas do Corinthians Band",
+      "publishedAt": "2026-10-23T00:11:00Z",
+      "source": "Band"
+    },
+    {
+      "title": "Corinthians é confirmado pela FIFA em Mundial de 2028",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR0U2SHZvSnN6ZWNEWHZoZ2pWX19oQWI2N0x5dHNmYmcwT3BiMm5CU3lMZTlfNzh1RHRNQ0NDSFRSakg4Ry1CYUxSOUdWR28xaVJ3anlvN1NVSzZOQXJyLUhWQVJhak9idWswU2k3V2g5QUY3SC1QbUxSQ3A4NC05Zk9B?oc=5",
+      "summary": "Corinthians é confirmado pela FIFA em Mundial de 2028 Portal ABC do ABC",
+      "publishedAt": "2026-10-22T23:32:08Z",
+      "source": "Portal ABC do ABC"
+    },
+    {
+      "title": "Em reunião com Gaviões, Seedorf manifesta confiança em reação do Corinthians",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUzdRUUxZeHJTWFZ5bGNyamFweUxQODJUQjQ0clVXSHFybG44SUx2MGF3Sk9kNDZHZ1hqUjFfajVmOWlLTDJfYnRraWo0aFd1Qndyd0VPb0l5QTY5eTVYMXd0V1JvcGhjaGlTZVpFVnE2dkV4ZGtnYUkxT3VHRnBkWmt1V3F4QWFQQzJ0V2Ztc1lhZ0hZcm9OMHhMdkFWZmNFa3JlWmJWcjNkU04tX1U1VGZzMGxwRTNLSGxuOEpzN2J0bmF50gHKAUFVX3lxTFA5WnhuOTBMdmRXMF9ybVJqVk1XQ0MtNnFfT1BpNGZaTkxYTjJUdE1HQXlRZG1fU0F0a3lUanJJdUt4NGQtZHEyMWFYa2gxaEZ2YXJ2MWdkS0p6c2dtRXoxZWVZbld4ZjB5Wmd4XzFpMjhVb00xc2ttTi1Ud0tqNUxxbGVCYTFWTjBjZjA3NVBZOVBFQ3NOZWVVUGV4Z1NVUWVJSVpjX3FEU3FGaE5lallTbVpyanpHblNQLWZGc1Y0N0g1aWhqeks3Vnc?oc=5",
+      "summary": "Em reunião com Gaviões, Seedorf manifesta confiança em reação do Corinthians Gazeta Esportiva",
+      "publishedAt": "2026-10-22T23:31:00Z",
+      "source": "Gazeta Esportiva"
+    },
+    {
+      "title": "Fifa anuncia EUA como sede da 1ª Copa do Mundo de Clubes Feminina",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYU5DZjdVNWF3Si1SZmUwdXliVU9wY2ZTU012U2puOVR1cmhQN3Z2NS1wR1Q0cHlZd2N6TTk4ckd6dG40Y3B2SXR2VDVmVzQ5aU5IVGVUci1NSkp0cEtWMzhxeVV1R2FTX0xfTGU1MC11WlV0RXd0S0pkZGhVSDNobDI1Z2JxYnZoZWRheTNQRVN0UGNtMy1lZDV2YllJU0pIcHJfOURPa3d4NzNJeHBYX1F4Yk14YW45R0NmOTNRUWU?oc=5",
+      "summary": "Fifa anuncia EUA como sede da 1ª Copa do Mundo de Clubes Feminina Agência Brasil",
+      "publishedAt": "2026-10-22T23:03:00Z",
+      "source": "Agência Brasil"
+    },
+    {
+      "title": "Corinthians é punido pelo STJD após irregularidade",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObTNtSndreERwTE9Tc3FQYjc5aHZzWmVMWkExeXNOS2dQTUFvRjBEYVgxYXVzc2tNOXRfRjFFMEZYY1E1R2VkWTRYdU9ZaGpEZUxDeGtYcGJqWm9QcjlLRTg0LXU2dzVIejk4RkRTZ1d3NHB4TzFuR3B6Zl9lNm9ITW1HZ3k5b1UzTjJVX2JqX3ZoMFZTRjY4RUFYc1RnTVFISEQxQXNCVm9zVmJrN1ZWckhKdGViVFZiSHJfYWQzSzJOaENZV1FiOVpFOWxkVmFLY1hxYm9CNmZDQQ?oc=5",
+      "summary": "Corinthians é punido pelo STJD após irregularidade Terra",
+      "publishedAt": "2026-10-22T22:59:00Z",
+      "source": "Terra"
+    },
     {
       "title": "O que Seedorf já mudou no Corinthians? Veja as primeiras medidas do técnico",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ1hkcHdrSzR2aVg2NFZzbjVnUXkyUVl1eFM3VEJPWTBDZ0R6dXIyX1M3VHZ5dnhXME1FeFlYMDJ1Z2hjcHUxeUQ4NzEtQjM0c3FkN0I5aGxrVkMtTkh6aEtMSWJkc3BjLXJZX2N1N3l4amdLenVESElJTnNoblFGcGFjclJwZl8tdGRrTEVobTRBakhxLUNhVm1taVdoZ3dJLXRr?oc=5",
       "summary": "O que Seedorf já mudou no Corinthians? Veja as primeiras medidas do técnico Exame",
       "publishedAt": "2026-10-22T22:26:23Z",
       "source": "Exame"
+    },
+    {
+      "title": "Corinthians avança em regularização de Seedorf e aguarda aval da Conmebol para aparecer no BID",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZE8ySzNnR2hacmtUbVNCdndRcDI1Y21faXE1QUpVeDdiTm9jZVEtMDF6dWNJV2NFaUVTSHhpUFdhOWJVYU1tX0ozV1E4dDg5Q2c5NExLODdBTjhjTFk2M0VvZEN6RTNjWk54dU41YmtQTjlyQ2VOWmp5Q1VTX1VlTVBsQU0xcU96S2VIejg4SDI4dUZFNWc2WENPa0Z6ZXBqTXpULTRMOHdld0ZqMkQ1Nl90bnJJajNldHBQemdGMWJObV9YRUQtRWlkOEdSdlluVF9rUE1fcldnSHRFSktJQ3FHUUlUZktW0gHYAUFVX3lxTFBTYTc4SUxQeVVpMXFyN2c5T0VYRGt0SXpEeGY4TkZLcGMwYjBvQVc0TFg5VV9qSzZKMGNIT2xmSlM5TkdzTzRIcUQyZW9ILXFseHl2dHBCdVNxUWRTQ2RYOGhJRzhwNUhoTEpsZmV3NEtzYnFGbTJtY3Zac3BVcWdKOTN3X080d0pjcnBkbVhnVFU4eFYwa0dJQmlMb0hFYWdsb1oyR1UteFlqSHM3SzBmV1hqX1U0Y2phMjhqV0djTW1IeHVhcGVtMjlYMGI0QnpEV1hvbWluVA?oc=5",
+      "summary": "Corinthians avança em regularização de Seedorf e aguarda aval da Conmebol para aparecer no BID Meu Timão",
+      "publishedAt": "2026-10-22T22:10:00Z",
+      "source": "Meu Timão"
     },
     {
       "title": "Corinthians recebe ultimato para regularizar pagamentos do RCE sob risco de ter contas bloqueadas",
@@ -25,6 +74,13 @@
       "source": "Estadão"
     },
     {
+      "title": "AGAFUC e CORINTHIANS decidem título da Série A do Campeonato Brasileiro",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05bGNUc05Zd1RTWGlmUGlXRDlYMW1ibWxCSVFramxvTjZkRXVLcmpybjJOZG54QjFva3RqWEhlS1RfMlhCdlVCQTFPQ3BvZ09yR1NrdHdFcjItWmp0cHJESEFiZ0VPN1lLSnJ5SUpPb09aaHk2cDRiX0RB?oc=5",
+      "summary": "AGAFUC e CORINTHIANS decidem título da Série A do Campeonato Brasileiro Confederação Brasileira de Desportos de Deficientes Visuais — CBDV",
+      "publishedAt": "2026-10-22T21:43:47Z",
+      "source": "Confederação Brasileira de Desportos de Deficientes Visuais — CBDV"
+    },
+    {
       "title": "Corinthians encaminha acordo para parcelar rescisão de Fernando Diniz",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUlRzQUZONDJSWWdfYUR6NXBRNGVDcl9ybF9WcHZoX2R5ekpZTWIxRm5xUlRhZHB3ZjhjdS1mSmlFbHNWby1xazRrWWJHekRNazFfeE1PQjJkcDdxTUFDTFJlS005WWFXRU4zVDJ6YTgxaWM2WEswa0haZVJPU2daZ1JjZ3Y5LXR3WDlhRkI0bjFYcFdUeThUbEVmejk4SEFOX0VydXAtakJuVEV0WmdOczQ4eUZiRW4zU3pxaF9DSEJSSDduakFvRzlIVHpoektIeHhOVlBRelJZLTNDMHdIZEdyMXg0b2s4by1PWjk2RGZvalE?oc=5",
       "summary": "Corinthians encaminha acordo para parcelar rescisão de Fernando Diniz Terra",
@@ -39,74 +95,18 @@
       "source": "Terra"
     },
     {
-      "title": "Corinthians encaminha acerto de rescisão com Fernando Diniz e fica mais perto de registrar Seedorf",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRlpsclFhRU1pMEczZVJUODUwcnJza05YTlNNNmRObUF5Y21iano1dmlTdE8za190LVFZUUdObFl3MGpSQ2Rvc1J0emE1RUNEQmF4SF9PZG1QVUFuSkduNzVBSXItMXJvX1d2ZEZhZDJWYndVa212RC1lNFAtREk3S2Q5bURhNS14NFdfamZCQmZzQ1ZkUkpObzZuOFIwZU9iUm1jQWRJZVpockotbERkUTNOeGdsWDVjTDdGQ1ZuUTdUMGtncmoyV2JrVmZ2RDhTU1BzcW94WlUyQ3piSDZPREtrbkhPWnJvNV96UzlB0gHeAUFVX3lxTFB5T2prcWNIaWEtdDd2clk3R0RYVGxLclRmUkNVcV80UERBQ2tMTW5lR3k2NFd2bUhaTjAxMFBhYzhVNjJYaGt5a01VRjFNdmVCOFM3S295U1pPZjV6VU0yTVZ4aGdKcmM1NEpOMW1PeUJtX2s3dkV1ZHB6UDg4aGJlZWhpSkhFcVp5TUtyeGdwMFNlOGx6dzNVV1ZpQXBhMG9hSEpKc2JHaTBtNU9kTFR0Vm96VDFaaGdvU0xzbkNBdXFYN3hqSjlWV01HcWd6Q1hmdzBMOXNUd0dPcWtndw?oc=5",
-      "summary": "Corinthians encaminha acerto de rescisão com Fernando Diniz e fica mais perto de registrar Seedorf Meu Timão",
-      "publishedAt": "2026-10-22T20:45:29Z",
-      "source": "Meu Timão"
-    },
-    {
-      "title": "Corinthians tem dois convocados para a disputa da Copa do Mundo Sub-17",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnhSOUctckpaWl9wWnd6YU5YLVRhYVhseVJVWDhZZnQtcmljY19obGVUbUJPZUpLWkpkZ2R1cTFLSHphUnAwSDdRYTROZWxzR1VmQ2pPMXJjc053akE0bkxXRzZabzFrRzJ6d1hKUUJGTXNhMGlTNExvVk1OZkVHU21wYnhKcmtuMm1UalpPeG9VMm5HajJnYVNLdGxOWHp0eFQ1YnpJTmpWRUtXd1BR?oc=5",
-      "summary": "Corinthians tem dois convocados para a disputa da Copa do Mundo Sub-17 Corinthians | Site Oficial",
-      "publishedAt": "2026-10-22T20:33:00Z",
-      "source": "Corinthians | Site Oficial"
-    },
-    {
-      "title": "Presidente e lideranças históricas da Gaviões da Fiel vão ao CT do Corinthians por cobrança a jogadores; entenda",
+      "title": "Corinthians: presidente e lideranças históricas de organizada conversam com Seedorf e elenco no CT; veja bastidores",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdjRpRnZVbnZ2TS1zc3U2S01SV0FjblRzOFo2bHJrRUV4WXZVYWh5M3RkbGJXdU9zVnJnYXpoRUZ4ZnRVSlZOQzQyZ3ptMzNzZGszWnJQRVJxQmQySHFmeEoxSWZLa0oxSWdLSVRGb3pMU2JsODdiVmlNWWs3dk5QMkZuUklmLWVuTUVpa1RaWmZfRnVYSlQwTUNhZ3NycTJWOWlOYUNKak5SY3R4WlVOUTlibk9fendURWVxN09jb3ZFSFdLQjR3M3hIS3pIcmlTeXdGZUhpc3JWbFVZd3hoRTBzT0NjM2lOYW5FZmJ6aHM?oc=5",
-      "summary": "Presidente e lideranças históricas da Gaviões da Fiel vão ao CT do Corinthians por cobrança a jogadores; entenda ESPN Brasil",
-      "publishedAt": "2026-10-22T20:29:08Z",
+      "summary": "Corinthians: presidente e lideranças históricas de organizada conversam com Seedorf e elenco no CT; veja bastidores ESPN Brasil",
+      "publishedAt": "2026-10-22T21:22:00Z",
       "source": "ESPN Brasil"
     },
     {
-      "title": "Timão está pronto para o jogo de ida das quartas do Paulista Sub-20 em Campinas",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzNFR190V3B2ZnFkbGR5Sk9IeTllLU40QnhQNVVRU2pkS0JHMi1RbUJCZks3R0pWYnllUGdXc21WSUZTSERUc0ZfdE1qeDJfMm9WYWRoVHpPLTNIbFlSR0RiUHE4Rlh4UEpyZE44dVZtU1c5ZDRzVjJ0ZXpvZnEzMWI1dDF1cjFoaUpiSE9ndHZsdlRHMWs2SncybEk1UEJzSXRGLTRGbnBldk4wVk9aTW5JODdkSG5ydkNz?oc=5",
-      "summary": "Timão está pronto para o jogo de ida das quartas do Paulista Sub-20 em Campinas Corinthians | Site Oficial",
-      "publishedAt": "2026-10-22T19:56:00Z",
-      "source": "Corinthians | Site Oficial"
-    },
-    {
-      "title": "Agafuc, de Canoas, e Corinthians são os finalistas do Brasileiro de Futebol de Cegos",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRTl6U0FCVUJPQ3d1RWd6eXZvejN6S0tGZ29GTGNQM1J5QlFwNkxGeFoxUTRzdHFpRnBkSFl1ckxtdHBoNm1fVnR1VWEzcDYyRTl4SmpjU0lDQ3BrdHJSWFVEVTR5UXpQcmlRR1dqZXVHZkpqWEM0TFJrdW5RVHJBbjNlekxCTWhjNk1PM2wyMlIyY1cyMXZFbFhPb1BpUEtHZlRsOFpBbXMxRHMtTE93WTlfLXFTTjI5YUR0X3NJeWk5eFdsd0R5ek1mTzBmV2UxS2FTN01Ed0NvRXdGanRuX1RwVzB1czZmNUc1VkIxS1NHcm9jSlZHY3d3d1MxU0k?oc=5",
-      "summary": "Agafuc, de Canoas, e Corinthians são os finalistas do Brasileiro de Futebol de Cegos GZH",
-      "publishedAt": "2026-10-22T19:52:30Z",
-      "source": "GZH"
-    },
-    {
-      "title": "Corinthians vê risco em Memphis contra Vasco e mira volta diante Mirassol",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdFotSS1kSlJTSHpFYWFQR1pDZnV4cy1HejE0amZSeUJOZlR0eU54T0NXb1FIT0p0cVk3NkdjNTFHeTVtS2YwbWxZVGpnNFUwVEx3b3pwa1dvSUNiUEhhc3Zid0tXRUpUcjRybG1wRDNCYzlpbzdzb0t1Q21iSWd2LVVCcVNXVlJfQkNseWt0RTJJOGZDNENRcVRIcjQxNS02TFI4a1dpZ0JnV3Q2RXJzSkp6eDZ0UXR4OUdMUlFhRmU4bWNvQVRxX2JpOUlBTlJaYmJ0UFZzaE1yZmtPSUE?oc=5",
-      "summary": "Corinthians vê risco em Memphis contra Vasco e mira volta diante Mirassol UOL",
-      "publishedAt": "2026-10-22T19:43:35Z",
-      "source": "UOL"
-    },
-    {
-      "title": "Organizada vai ao CT do Corinthians para cobrar jogadores",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT0RUMjB4cE9nMEZuNldUekN3YlBveXZiX1FCNExYWGRKWkVRZDZrMTVpMVlSWmxRWTB3dnFsWXAzQWhTVUsxSTl6Nlh1eTBVTEhrUm4zb2d6aTdsM0lFX0x3NjdTcTJCbVl1c3Z5N2VUb2J0Umg4a2N5TWEyd0xDS25PaXpaR1RwM2hPQlp0Z3N6eFlWZ0d2aFlhWjI5X3VXOHdQYTV1VzA5eEE0WXZ3WmJGS0Vta3JqeGg1S0JyMHlnTExhbkpfbVZjc0t3dTNxNHViNnhqNm9MQ1lEenVwT21ENA?oc=5",
-      "summary": "Organizada vai ao CT do Corinthians para cobrar jogadores Terra",
-      "publishedAt": "2026-10-22T19:43:00Z",
-      "source": "Terra"
-    },
-    {
-      "title": "Gaviões da Fiel se reúne com Seedorf no CT do Corinthians",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT1hQMEVpRWxLX19GTklYdTZWRExkamYxWC0ybnYyRzZxajhWdDRNRmx5R3c2RkNId1VUNFBsYk8wRWlhZ0huY2lKTjRTWl9mTEtkckkzcHRFRk11LTg4OGhqaDdhTEtMS2FPbmxnM014dEs0UjBPa3U3OXhKVEYxcVBISEVQSlJvTHFISTFUd0FBanZpWkpZTnhpRlZWZmxlblo0OThTTko5a3dqR0JCVWw1Z1VTSkE1MHU2OG9GT2t1ZGRkMTRETUpXUkVTdmdPYlZ2dG1rUVhZSEFzUlBZb3hPQQ?oc=5",
-      "summary": "Gaviões da Fiel se reúne com Seedorf no CT do Corinthians Terra",
-      "publishedAt": "2026-10-22T19:36:00Z",
-      "source": "Terra"
-    },
-    {
-      "title": "Corinthians e AGAFUC fazem terceira final seguida no campeonato brasileiro",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd2RzTnZDWXAtWnVBczAycU02V1luVDdpS0JHN084NzJwVDhqdEYwbGhTYkxRMWhERXhUc0lra1N5RjFNR0trRm9DRlFwWVZHNF9HZS12ak9UYTFqbXRSVW1sX1lWZlllR2RHN1BGck9ZZnJvMC1MNGVsMDJQSVJTQlR2RVhJd2VVRGNxeU80UzF2dllZQmRCRlJXVGJyOUxESlVZMERROHRHbUFHbXd2NEhXQ0s2RlhHVmpINQ?oc=5",
-      "summary": "Corinthians e AGAFUC fazem terceira final seguida no campeonato brasileiro Olimpíada Todo Dia",
-      "publishedAt": "2026-10-22T19:33:07Z",
-      "source": "Olimpíada Todo Dia"
-    },
-    {
-      "title": "Lideranças de organizada vão ao CT do Corinthians para cobrar elenco",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaFg3WUxaaVcyX2J5OVZpY3BsZF9Lemp0ODhyYkdBZzJDSHp5Mm40ZHNBUmhWMDdZY0QzTTBlaXUzaVZuWkk5QXdvQjhvV1dUdFBqUG51SjVlcVJxNzBiWkRiaDFvajhQRUsybFRYY3dWV2ZONjlQejJzS3NiMFJkR2FhNHA4V29ZLXJVRjZBYVliUEluckw1Rm1yVm84aG5RVThlM2NkZlVydElxY1hNNWRpVjJoZ2gzZEdB0gHAAUFVX3lxTE0wLXdZQzh5N1AtQWlLTjl4UXcyX0RIOGVZUzhqUGJxdGtWMzdCemE2RVlIY0prbXBpc2w5UFlNcG5DTDVpMkdsWUU4bGJmNWQxbjI3UUo3ODBabXFfTmEwMEpmVXR4aGlSNGZzS1UtZ24yTmxlN1YyZVltcWRIOHAzU1pfTlFzWkpZamhEbGNaUDY5MXk2NVNRcEloeGFDdzE4Rm8wcDNMb3Q0d09JLWhkaFV5TTRIN3VRY1QyN1ozMA?oc=5",
-      "summary": "Lideranças de organizada vão ao CT do Corinthians para cobrar elenco Gazeta Esportiva",
-      "publishedAt": "2026-10-22T19:25:00Z",
-      "source": "Gazeta Esportiva"
+      "title": "Corinthians ultrapassa R$ 2 bilhões em dívidas. Saiba detalhes!",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNEFVbU9qakVxVFQ5NlpWaVRJNzdyR0g2YnAtR1JyWHV1S1JraldpbHVwa0JEVTlUd0lqejFTLXdDSEZxTG1BMDYzS1p2SDU4SXJyMENRLVh0aHFPT2RKTjJXNjZtcERyaHBWNkVxbFltQU85RWsyMWVRU0h6ZzlqUFBVZXdIVGgwejdpSHdFNGZ2NkJ4SVNZ?oc=5",
+      "summary": "Corinthians ultrapassa R$ 2 bilhões em dívidas. Saiba detalhes! OFuxico",
+      "publishedAt": "2026-10-22T20:55:00Z",
+      "source": "OFuxico"
     }
   ]
 }
