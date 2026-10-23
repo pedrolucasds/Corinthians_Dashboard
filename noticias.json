@@ -1,21 +1,84 @@
 {
-  "updatedAt": "2026-10-23T06:32:49Z",
+  "updatedAt": "2026-10-23T12:11:09Z",
   "source": "Google Notícias · Corinthians",
   "feedUrl": "https://news.google.com/rss/search?q=Corinthians+futebol&hl=pt-BR&gl=BR&ceid=BR:pt-419",
   "items": [
     {
-      "title": "Justiça rejeita pedido de prisão de vice-presidente do Corinthians",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPandLTjE4RzNBRWhQZk9tZFRjcDVldUc3ZWtOcy1GcVkzZV9WVlNYelVyc1ZHelozRjFaR1N3X3ZRRVo2UkwxbjNJaUdYa3BTWWtuUWNXU01hXzllOVkyaERJb0hmYUZZRHZGcm9qQXpuVzg0NEswN3IyNEVSdEEwSzF3dzhrNXhKT2tKMEdEUEtmYXZQS0xGQ0hQTjNqeTFaWHU2UXhLNUpKQ0Y0dWpYTl9Fel92V3lLZnBKSmVZTGt1SGJDNUIwdzZvb004VWFQYU9VNg?oc=5",
-      "summary": "Justiça rejeita pedido de prisão de vice-presidente do Corinthians UOL",
-      "publishedAt": "2026-10-23T04:56:56Z",
+      "title": "Justiça de SP rejeita pedido de prisão preventiva de vice-presidente do Corinthians",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMmx3aXRMYUJYWno0dlUwVjQwUmtwQnRIUURfZXpWNnA1QzVoMm8zRGwzOGc1MzM0Q1k5cnM1SzVpUHZpN2M4UU44ZDBxTUdMU0lBZ0tmRTRPV3l3RmVoc09ETVlZR0JyTmx5VTRDVVkzYnlYcUo0cTNkM0hrVG1RRXVUbmhDUTBIckM0RzlISkNSUFRNVlpFWEZxVnMzUlZNQkhPVlpWaHpkLVVTc1JnYUQzbzNrZFEwbGstck5DN2dWdENpZXdN0gHMAUFVX3lxTE9fWE5YNDNFc2dpbmNOUXhwNVlVRTdzWS1jTmd1MHZYN1IxVzhZelVXVWxEWTdoUmpmMThIY0p0Y3o1ZDB0TlFKc2JtZzI2VHUxRnVEMTBpQmY1UERITTE0amR1N3U0YTIzZGtKVDQ5Rm1XY2h6dEp4VjdOc01vdzJwZmtHZnhhcUNMQW9iUnNlSHpnV3JaNHFSalJxNGJwNDRUQ2RvUlVVYzVkeFpqazN6LVE0dHBVNk1QcXBnTFN1QWFWb3JrNXZyQnZmSQ?oc=5",
+      "summary": "Justiça de SP rejeita pedido de prisão preventiva de vice-presidente do Corinthians Estadão",
+      "publishedAt": "2026-10-23T11:21:00Z",
+      "source": "Estadão"
+    },
+    {
+      "title": "Corinthians perde força em Itaquera e faz seu pior turno no Brasileirão",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNeE9IWW1PNGFSMEZBVXd2d3lGYkZkVUh6cEFHdjcxTUk4eEJoNWxJcnMwWk5ITHQ5XzZoVFlOUHpsT0ltY0I2dVdxYkpwZUxvdW9DLVhQQzBxNmZ1NVFkOHFqdUtEeE5ocWdiV2Qzc3pUZ21kTGZ0ckdVc010MzVfRkpQZ2NNQWVtdXZoN1dpcmwwU2hQTzJrUDR0U0RWZTRjcUhjeXJVUURhYmdrN2N1MF8xaFZpZkhTYm04SG1tUUZmUURkcEJEd1lnb3Y2SlNjRWktSXNUSS1HYjBuQzNDWHpYa3pXOVQ5NWJUTVBBbFdRa216Mmc?oc=5",
+      "summary": "Corinthians perde força em Itaquera e faz seu pior turno no Brasileirão Terra",
+      "publishedAt": "2026-10-23T10:46:00Z",
+      "source": "Terra"
+    },
+    {
+      "title": "Libertadores Feminina tem chance de final brasileira pela terceira vez",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUVRtUi1FUlBueGs1WDk3d2VXNUJWbUVmN3BMMko5N052aE53cTduVzBhS24tdV95eTcyZnVUNmVLQ3NYTUdWMGowSERualBLYkIxYTlrZ3diYmVQTTVfUi1ITGhCLUx2M3RheWpQbUUxSktnZkp0cmszUlpPZm1tMWIzUU43TjkwTGFFVzZPa2wxWGhTczhCQWZRQTZobVpSeVMxWU5CNUtKeUJnX0FPaTlkaktpOVhoRzNlLVVTOUVPMjUyMGNR?oc=5",
+      "summary": "Libertadores Feminina tem chance de final brasileira pela terceira vez Agência Brasil",
+      "publishedAt": "2026-10-23T10:02:00Z",
+      "source": "Agência Brasil"
+    },
+    {
+      "title": "Corinthians pode ter sete desfalques para decisão contra o Vasco",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlRucWZUWUJZT09PSDExWnNyeE9PZzBzcXJDWHZTSFB3SlF0Tmg5WGVGbEkzZ3dOTHNiTlhJTlFTOGsxZ2xJdTBKckZ0SmFCdzZ1OUtpYjVsdXl4SVhVLVZLVWZJMlZxWm9LU0pnVVNqZTEtVmhxUy1scG9tZWxGOFdCdU1wVWxzbzhKTlRfWWZJT29FeV8xcjVITWtqbHNUV09va3hWc1NPdw?oc=5",
+      "summary": "Corinthians pode ter sete desfalques para decisão contra o Vasco LANCE!",
+      "publishedAt": "2026-10-23T10:00:00Z",
+      "source": "LANCE!"
+    },
+    {
+      "title": "Vasco x Corinthians: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPd0kweXN3dFlSdGpPaGI3VWNzelYyaU1RaGtieVBkdlVjZEdGUXhsNmdiSnk0NnhCNlBpblhwNmtuRTVzbGV4STlFRHRSYnloeHpfYnR4MTg1eFo3bnZ4elIxN2lpZXQ3RUx4aDdQU2dBcnJyaXJzM3ZOS2VTejJ3QktPTmRQdXNmbTMweWR5blhVNjVJbk9DbDZyelhWdDR4NzA4MFJsN3lxUnV5ZG5la0NFbWplaEVvV3hXbVpmVU90dFRLMVBBMmZYa2dTWV9zcS1uZWNESnZnN2ZyNDBFalJIZ0xrSURLa2NzTFpCOWVGQQ?oc=5",
+      "summary": "Vasco x Corinthians: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão ESPN Brasil",
+      "publishedAt": "2026-10-23T09:00:00Z",
+      "source": "ESPN Brasil"
+    },
+    {
+      "title": "Vasco x Corinthians: saiba onde assistir ao jogo pelo Brasileirão",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYmJua2RiRWMxWHFXcURCRmVKeVBMaHZ5dlc2M3pfRW9qNmpQaUJFMnZTUVN0YjE2R3hFcUpodnJ4RnMwdURMYllhaVJEZ3RuLXB4WVZ4ZzU5c3lmY2NLdDlXX2xFeGxlVUlSY25rTHhtaGp3dkRpcFUzLVpNV1FkbVhWakxLV2xCcTNlYVBsNEFmUks5bERlUFc0LUxtNTZpRWE5TUJxbjNfU01QbEJHZUh4X0ZMUG01MnNVTEVMWVNsT2hSZnJFeHpYeDdvQdIB0wFBVV95cUxOTng2dC1FTTg3a2c1bVVKU1JvOS1nTWJHQXJZS3JmQnpMMGQtbVV3Ylo2WEloT1JuQ0V5RXd5X1RZVGJISHg1VmVRaHNNOElIT3liaVVudTQ5akVSLVRhT0JvazU4bWpBZXRNQ2NOOUtBMFhBYVFhSWFtY3ptTDVaanRHV0lrV0x3eU9ndXRQejhjX3A0NWhzbVNNaGRfbVNxWmkyZFlRRnhHNERCaFNuUU9PcG9NbW1TQ3lBVlhIU1FsR3dfOTUtRnphelNwZFduOUtB?oc=5",
+      "summary": "Vasco x Corinthians: saiba onde assistir ao jogo pelo Brasileirão Gazeta Esportiva",
+      "publishedAt": "2026-10-23T09:00:00Z",
+      "source": "Gazeta Esportiva"
+    },
+    {
+      "title": "Corinthians e dupla Gre-Nal caem? Simule as últimas rodadas do Brasileirão",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWJvTDlobTh0SVdoRGhQTEdFREVITGZhaGtxaV8tS3BTSjhIcWUteVJfazhlNHZ0VkMyUGZSSkctelNYdi1uSXhJM2tTeTRzc0JCc3hwTnNCSlJvcjc3ZHExeVU2al9WdVMxb1dSV0lING5JWW5EYmowSGxzYTFsaE85YTJoR3ZZNnJjdkE3aEpqZFJEM19sVW4xNWlVNmV5aGVr?oc=5",
+      "summary": "Corinthians e dupla Gre-Nal caem? Simule as últimas rodadas do Brasileirão UOL",
+      "publishedAt": "2026-10-23T08:30:00Z",
       "source": "UOL"
     },
     {
-      "title": "Justiça nega pedido de prisão preventiva de vice-presidente do Corinthians",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNX1JMUFZ1NGNsczJ4eDRndXBXY3ZHdmRyUTBVNHZyYWFObk93cDFud2pkSzdPOFplbVN2NjBZUUQ3RFAtc2xLekxpd3N2UldOazRmNUtsUGFqRXY5YkVwQkZuSjFqU3duR1owMlhPZDdRa2trNDdPR0J4dThGU29hMG8yR3NuVHB5UFhZMHAzLUl5dHpqSXU4WVJ4RzZId25LbUx2ekI0MG5TeVVHQ3lGY1o3OTNGYWZYOVpqb241S1pUMEJmUllRWW5tbUlhcy1peEtKR2VQUDFoY1hPY1VZ0gHuAUFVX3lxTFBmdTVxb3RrTWcxYkR5MHVMb1diNElJZkZsVDVpc0NwTjNGWjlXdDU3TVRhZ1VrNzJQNFZoWjAwemR4anB3aTJ5ZVdZeTFYWFRVa1FlN1JEY2oyYWJpRE92aHhBWTBvdDRzSy0zMTF1QkJqVURNeHZYUEt3Z0NJbWU2Y0x5c0k4cHVkNEVvWlpGbHBoVXRCdVNjMGMxUXp6c1I5N0NLVmtCZTFWdHlLUnozemJwZURTejdBR2dtbWRBYlVjb2g0YVRySkJTSXhybWRMOWE4TWpKSjcxUDRWcG90UmZFVlVvSGRmelhCU2c?oc=5",
-      "summary": "Justiça nega pedido de prisão preventiva de vice-presidente do Corinthians ge",
-      "publishedAt": "2026-10-23T01:19:36Z",
+      "title": "Justiça nega pedido de prisão do vice-presidente do Corinthians",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM0E0eHhCNHdVMlVkZm5wNXdZa091eTl4em9ucEU4R1lmNndsaDczMVFTbUE0RG95ZU1MNVc5RHVncE1YdE5wRkg5Y2cwMFlhUERwWElwOFRhRHJXdU9yNmFvalJUSkZJaW1sTVVZMGlXS21iYkg4ZVBPbkhtZExuNE0wV3U3UDc0MU0yMjcwRnlmT3ZkTWRQYi0xdEFIQi1LOGJ5U2pwY3I?oc=5",
+      "summary": "Justiça nega pedido de prisão do vice-presidente do Corinthians LANCE!",
+      "publishedAt": "2026-10-23T08:30:00Z",
+      "source": "LANCE!"
+    },
+    {
+      "title": "Seedorf aposta em positividade para mudar clima no Corinthians; entenda",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTmpaZFlCTC1acWlNM3pFN2pIejh4b3JBZUFFcy01MzBlNWplQnVyTFVPd2RMc3lJWk0zcWFlX0V1Nk9sMFlEaG0yU3l2NERYT25tRFJHbVdSOHFZT3RVa1RpSlBRaUpPamFvZUZ0Mkt3SjNhcE1ZZzNoVU92RDNjSzBSeHUxbDd1MjdoRDFaa2FlSjRSWmc5MEZLMlFOcWpKMWxKWFhqQ0hReUtIeGRUYjNvQWNXTWlmaDRxaXNlY1pUUExENElEY3lRa2lRSnpDd2tmNjh0Q0Fpc3hsQkJlM3U1emhRd3FsTGg0d1ZZV21GeFF0?oc=5",
+      "summary": "Seedorf aposta em positividade para mudar clima no Corinthians; entenda Rádio Itatiaia",
+      "publishedAt": "2026-10-23T07:05:04Z",
+      "source": "Rádio Itatiaia"
+    },
+    {
+      "title": "Corinthians: elenco restringe vestiário e afasta Osmar Stabile | Ge",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZGprelRIbndGR0xobWpZVmR3amVJMlVJRVB2c0NWbGdiSC05MGlocnEyR28wZEpwTEJhWFpvaWpNNmdxTDh3UmJsQTdEY29Id254VV9ad3ZkSy1xeXB3UWt3S3lOOVl2bXFsNmI2SjF3eHhOa2hDOVZSSU5OODNXaEFhTWprcmFkMGpfdGdsRUtQaUR1ZmFMeDNCNGU3ZFhaUENSNVZLNF9JWFhfUVhEeUttSm93ZVgwNnJZZTZucktMa0Z3QmRIVFpnUTZkNGZ4SklEZkFaeU45eXc5MzQ5UnR2S29GQktDbURCdUt0eDQ2SERiTThtSlhn?oc=5",
+      "summary": "Corinthians: elenco restringe vestiário e afasta Osmar Stabile | Ge ge",
+      "publishedAt": "2026-10-23T07:00:00Z",
       "source": "ge"
+    },
+    {
+      "title": "Justiça rejeita pedido de prisão de vice-presidente do Corinthians",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPandLTjE4RzNBRWhQZk9tZFRjcDVldUc3ZWtOcy1GcVkzZV9WVlNYelVyc1ZHelozRjFaR1N3X3ZRRVo2UkwxbjNJaUdYa3BTWWtuUWNXU01hXzllOVkyaERJb0hmYUZZRHZGcm9qQXpuVzg0NEswN3IyNEVSdEEwSzF3dzhrNXhKT2tKMEdEUEtmYXZQS0xGQ0hQTjNqeTFaWHU2UXhLNUpKQ0Y0dWpYTl9Fel92V3lLZnBKSmVZTGt1SGJDNUIwdzZvb004VWFQYU9VNg?oc=5",
+      "summary": "Justiça rejeita pedido de prisão de vice-presidente do Corinthians UOL",
+      "publishedAt": "2026-10-23T05:31:05Z",
+      "source": "UOL"
     },
     {
       "title": "FIFA confirma o Corinthians em nova competição",
@@ -39,74 +102,11 @@
       "source": "Band"
     },
     {
-      "title": "Corinthians é confirmado pela FIFA em Mundial de 2028",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR0U2SHZvSnN6ZWNEWHZoZ2pWX19oQWI2N0x5dHNmYmcwT3BiMm5CU3lMZTlfNzh1RHRNQ0NDSFRSakg4Ry1CYUxSOUdWR28xaVJ3anlvN1NVSzZOQXJyLUhWQVJhak9idWswU2k3V2g5QUY3SC1QbUxSQ3A4NC05Zk9B?oc=5",
-      "summary": "Corinthians é confirmado pela FIFA em Mundial de 2028 Portal ABC do ABC",
-      "publishedAt": "2026-10-22T23:32:08Z",
-      "source": "Portal ABC do ABC"
-    },
-    {
       "title": "Em reunião com Gaviões, Seedorf manifesta confiança em reação do Corinthians",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUzdRUUxZeHJTWFZ5bGNyamFweUxQODJUQjQ0clVXSHFybG44SUx2MGF3Sk9kNDZHZ1hqUjFfajVmOWlLTDJfYnRraWo0aFd1Qndyd0VPb0l5QTY5eTVYMXd0V1JvcGhjaGlTZVpFVnE2dkV4ZGtnYUkxT3VHRnBkWmt1V3F4QWFQQzJ0V2Ztc1lhZ0hZcm9OMHhMdkFWZmNFa3JlWmJWcjNkU04tX1U1VGZzMGxwRTNLSGxuOEpzN2J0bmF50gHKAUFVX3lxTFA5WnhuOTBMdmRXMF9ybVJqVk1XQ0MtNnFfT1BpNGZaTkxYTjJUdE1HQXlRZG1fU0F0a3lUanJJdUt4NGQtZHEyMWFYa2gxaEZ2YXJ2MWdkS0p6c2dtRXoxZWVZbld4ZjB5Wmd4XzFpMjhVb00xc2ttTi1Ud0tqNUxxbGVCYTFWTjBjZjA3NVBZOVBFQ3NOZWVVUGV4Z1NVUWVJSVpjX3FEU3FGaE5lallTbVpyanpHblNQLWZGc1Y0N0g1aWhqeks3Vnc?oc=5",
       "summary": "Em reunião com Gaviões, Seedorf manifesta confiança em reação do Corinthians Gazeta Esportiva",
       "publishedAt": "2026-10-22T23:31:00Z",
       "source": "Gazeta Esportiva"
-    },
-    {
-      "title": "Fifa anuncia EUA como sede da 1ª Copa do Mundo de Clubes Feminina",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYU5DZjdVNWF3Si1SZmUwdXliVU9wY2ZTU012U2puOVR1cmhQN3Z2NS1wR1Q0cHlZd2N6TTk4ckd6dG40Y3B2SXR2VDVmVzQ5aU5IVGVUci1NSkp0cEtWMzhxeVV1R2FTX0xfTGU1MC11WlV0RXd0S0pkZGhVSDNobDI1Z2JxYnZoZWRheTNQRVN0UGNtMy1lZDV2YllJU0pIcHJfOURPa3d4NzNJeHBYX1F4Yk14YW45R0NmOTNRUWU?oc=5",
-      "summary": "Fifa anuncia EUA como sede da 1ª Copa do Mundo de Clubes Feminina Agência Brasil",
-      "publishedAt": "2026-10-22T23:03:00Z",
-      "source": "Agência Brasil"
-    },
-    {
-      "title": "Corinthians é punido pelo STJD após irregularidade",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObTNtSndreERwTE9Tc3FQYjc5aHZzWmVMWkExeXNOS2dQTUFvRjBEYVgxYXVzc2tNOXRfRjFFMEZYY1E1R2VkWTRYdU9ZaGpEZUxDeGtYcGJqWm9QcjlLRTg0LXU2dzVIejk4RkRTZ1d3NHB4TzFuR3B6Zl9lNm9ITW1HZ3k5b1UzTjJVX2JqX3ZoMFZTRjY4RUFYc1RnTVFISEQxQXNCVm9zVmJrN1ZWckhKdGViVFZiSHJfYWQzSzJOaENZV1FiOVpFOWxkVmFLY1hxYm9CNmZDQQ?oc=5",
-      "summary": "Corinthians é punido pelo STJD após irregularidade Terra",
-      "publishedAt": "2026-10-22T22:59:00Z",
-      "source": "Terra"
-    },
-    {
-      "title": "O que Seedorf já mudou no Corinthians? Veja as primeiras medidas do técnico",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ1hkcHdrSzR2aVg2NFZzbjVnUXkyUVl1eFM3VEJPWTBDZ0R6dXIyX1M3VHZ5dnhXME1FeFlYMDJ1Z2hjcHUxeUQ4NzEtQjM0c3FkN0I5aGxrVkMtTkh6aEtMSWJkc3BjLXJZX2N1N3l4amdLenVESElJTnNoblFGcGFjclJwZl8tdGRrTEVobTRBakhxLUNhVm1taVdoZ3dJLXRr?oc=5",
-      "summary": "O que Seedorf já mudou no Corinthians? Veja as primeiras medidas do técnico Exame",
-      "publishedAt": "2026-10-22T22:26:23Z",
-      "source": "Exame"
-    },
-    {
-      "title": "Corinthians avança em regularização de Seedorf e aguarda aval da Conmebol para aparecer no BID",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZE8ySzNnR2hacmtUbVNCdndRcDI1Y21faXE1QUpVeDdiTm9jZVEtMDF6dWNJV2NFaUVTSHhpUFdhOWJVYU1tX0ozV1E4dDg5Q2c5NExLODdBTjhjTFk2M0VvZEN6RTNjWk54dU41YmtQTjlyQ2VOWmp5Q1VTX1VlTVBsQU0xcU96S2VIejg4SDI4dUZFNWc2WENPa0Z6ZXBqTXpULTRMOHdld0ZqMkQ1Nl90bnJJajNldHBQemdGMWJObV9YRUQtRWlkOEdSdlluVF9rUE1fcldnSHRFSktJQ3FHUUlUZktW0gHYAUFVX3lxTFBTYTc4SUxQeVVpMXFyN2c5T0VYRGt0SXpEeGY4TkZLcGMwYjBvQVc0TFg5VV9qSzZKMGNIT2xmSlM5TkdzTzRIcUQyZW9ILXFseHl2dHBCdVNxUWRTQ2RYOGhJRzhwNUhoTEpsZmV3NEtzYnFGbTJtY3Zac3BVcWdKOTN3X080d0pjcnBkbVhnVFU4eFYwa0dJQmlMb0hFYWdsb1oyR1UteFlqSHM3SzBmV1hqX1U0Y2phMjhqV0djTW1IeHVhcGVtMjlYMGI0QnpEV1hvbWluVA?oc=5",
-      "summary": "Corinthians avança em regularização de Seedorf e aguarda aval da Conmebol para aparecer no BID Meu Timão",
-      "publishedAt": "2026-10-22T22:10:00Z",
-      "source": "Meu Timão"
-    },
-    {
-      "title": "Corinthians recebe ultimato para regularizar pagamentos do RCE sob risco de ter contas bloqueadas",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTVNBRmZ5SG5OSS1hMHpvRndfcW9QbVBIY0NGekpqbEJOWGVIRWVYQUg1bkZvMnFNVzRhR21sQVV4Qk1Na0pSZHFRMDhQVVhWaUs0dWkwTFhkeUN1ZXdDQXJUTVowdXNNNkxfeFZ5dnBsVUo0V19jdFAzS0JUOTY3ZU42QUtIZWlFT2lLZ255by1ROEw1S2ZVN0UwUHNxOUpkTGNTNm5ZSWtlNzRuekZSYllSVk9JU2REekM5X2tyUkF3c3QtdzNFRHhQTkIxZ0tEdHd6aVVYSXdxdXBnQTRxM2diZFg?oc=5",
-      "summary": "Corinthians recebe ultimato para regularizar pagamentos do RCE sob risco de ter contas bloqueadas Estadão",
-      "publishedAt": "2026-10-22T21:58:12Z",
-      "source": "Estadão"
-    },
-    {
-      "title": "Corinthians recebe ultimato para regularizar pagamentos do RCE sob risco de ter contas bloqueadas",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTS1ZM3Etc3BYeEc3RHVtXzV0XzJubGRucU15dHdRNWdLaFdfT1FiUnJ4bFktMzc3ZTZ1UEc5U3hhVDUtZ3h2R3hCaWNUdVRKNG9TcVZGVHZjYm9aLVNYOFJmbW1YLXJmeFNlNDdkS0NTRXdmaXJBZEU2MDJiNWN5NmxHNmxnSG1UMks0eXNYQU50NnFlRE91WHRSLU1BU2labTBzZjU2UW96SGZNY0E3a0NrR3hRWmlHWUF2Y1AwYjNwVm1hd2xuNDlnSHV1aUVmYWVYbFppanhNUdIB3wFBVV95cUxQZlA2eVpRNzVCbU5zX05RNHNDLTVHOGQxdVd0VnJkd3A3QXQ2WGJJQTJjR2V0VGR2X29ld1hsSUhsZ2huejktOTY5LUVBS0ZIZS03UkFtZEcxZ1Ryb2p6Ym1BdTVMcHBldWI0ZV9wUzl0RWdTUkNtY3o1QmU0Nzc1ak1sX2V0a3FHNVNIaTF4ZnFMUTBaZzRKVS1kV1UwdFUwVVJHUXhYVXVuMmdyQTlYM0ZmQkRWQjV1MW9JY3kzU0I4bzgyX3BneTN5OU5xMUd4TGt5SGkyQ1Bic0pudk9j?oc=5",
-      "summary": "Corinthians recebe ultimato para regularizar pagamentos do RCE sob risco de ter contas bloqueadas Estadão",
-      "publishedAt": "2026-10-22T21:51:00Z",
-      "source": "Estadão"
-    },
-    {
-      "title": "AGAFUC e CORINTHIANS decidem título da Série A do Campeonato Brasileiro",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05bGNUc05Zd1RTWGlmUGlXRDlYMW1ibWxCSVFramxvTjZkRXVLcmpybjJOZG54QjFva3RqWEhlS1RfMlhCdlVCQTFPQ3BvZ09yR1NrdHdFcjItWmp0cHJESEFiZ0VPN1lLSnJ5SUpPb09aaHk2cDRiX0RB?oc=5",
-      "summary": "AGAFUC e CORINTHIANS decidem título da Série A do Campeonato Brasileiro CBDV",
-      "publishedAt": "2026-10-22T21:43:47Z",
-      "source": "CBDV"
-    },
-    {
-      "title": "Corinthians: presidente e lideranças históricas de organizada conversam com Seedorf e elenco no CT; veja bastidores",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdjRpRnZVbnZ2TS1zc3U2S01SV0FjblRzOFo2bHJrRUV4WXZVYWh5M3RkbGJXdU9zVnJnYXpoRUZ4ZnRVSlZOQzQyZ3ptMzNzZGszWnJQRVJxQmQySHFmeEoxSWZLa0oxSWdLSVRGb3pMU2JsODdiVmlNWWs3dk5QMkZuUklmLWVuTUVpa1RaWmZfRnVYSlQwTUNhZ3NycTJWOWlOYUNKak5SY3R4WlVOUTlibk9fendURWVxN09jb3ZFSFdLQjR3M3hIS3pIcmlTeXdGZUhpc3JWbFVZd3hoRTBzT0NjM2lOYW5FZmJ6aHM?oc=5",
-      "summary": "Corinthians: presidente e lideranças históricas de organizada conversam com Seedorf e elenco no CT; veja bastidores ESPN Brasil",
-      "publishedAt": "2026-10-22T21:22:00Z",
-      "source": "ESPN Brasil"
     }
   ]
 }
