@@ -1,8 +1,57 @@
 {
-  "updatedAt": "2026-11-15T07:14:47Z",
+  "updatedAt": "2026-11-15T14:50:45Z",
   "source": "Google Notícias · Corinthians",
   "feedUrl": "https://news.google.com/rss/search?q=Corinthians+futebol&hl=pt-BR&gl=BR&ceid=BR:pt-419",
   "items": [
+    {
+      "title": "Corinthians chega a 50% de risco de rebaixamento; veja chances",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSkR1UU82VVJDZGVMclBxWUJkQ0tnUzRRaHlSck85VWt3eWNVQjFDbmJjNV9qcGJGc2VQWGFkQ253X19TV251WnA2dWdIVU9CdmVNLS1VS0FObEFoQXd2MXdoTnhla3RLTzZISkk3eHBha1hNSzItZDk1M2o1UXhPMC1CVENJM0wxS2RGdlhOYkRnZU5uWUU0elB6UGNzcWNpQk03TUpldHBET0VZMjlmeWZzQVNWWDk0UUJ1MHZDblJQa0RsbnVmX0dlcy0?oc=5",
+      "summary": "Corinthians chega a 50% de risco de rebaixamento; veja chances LANCE!",
+      "publishedAt": "2026-11-15T14:15:00Z",
+      "source": "LANCE!"
+    },
+    {
+      "title": "Mesmo com desfalque, Corinthians se anima por André na seleção brasileira",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQemFkaFdnT2tJTmUyMEZhNDN6cHo5UlJ0empzY2FIR1FPQVV6dXlhcFNNdmZyQ3hualVMREZzT3UtX1FGMmM2WUh0YjdRX1l2RnotLVJ2T0xGRV8zV0xWLUozM25QTVFHWTgxU183a25iakkwbnEtODVQV3c4QkNLSFhvMXFUZmVYeWZNODlwWDlXd21pMDF0QUN1SWZ5UHlTMklzU0Iwd1VPRHB0Nzh5T3dVVTlJbzhiOEZITHc0aG85VEhkM0taUDY3eEpPMVVHck5kZjRUWFA2Vl9xV2ZV?oc=5",
+      "summary": "Mesmo com desfalque, Corinthians se anima por André na seleção brasileira UOL",
+      "publishedAt": "2026-11-15T12:15:34Z",
+      "source": "UOL"
+    },
+    {
+      "title": "Paulista F Sub-20 Petrobras",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54VDhMeHhkUlJJNFE5b0JJazFPODc1OS1IZVRMamJoamNjSS16MTZzd2JZTFdPYzhscUsxaWM2TUVtUTNDRWRUVTdzYnh0dTBVZmc3RDgwUnBucll4RzZhOUQ2dlVmNHNqNHZxb1lSMWdTQ1dk?oc=5",
+      "summary": "Paulista F Sub-20 Petrobras Federação Paulista de Futebol",
+      "publishedAt": "2026-11-15T11:00:00Z",
+      "source": "Federação Paulista de Futebol"
+    },
+    {
+      "title": "Paulista F Sub-17 Petrobras",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tZkdLMWh3bkVKdmFMdXR0anlxbVlOYmpObTMtWUhTSnR4MHVaWDU0VHhjN0VMS2R6cElCeFJISWFZdWdKUHNUWDZEbjd6YmVOTGJ1Y1NEbU5adThXcnZ5NVM1RmlCWDN6cDZwb0hhLUdSVG1o?oc=5",
+      "summary": "Paulista F Sub-17 Petrobras Federação Paulista de Futebol",
+      "publishedAt": "2026-11-15T11:00:00Z",
+      "source": "Federação Paulista de Futebol"
+    },
+    {
+      "title": "Corinthians caminha para pior artilharia desde ano da pandemia; veja ranking",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYlFMbTd4dmtBT3FpSWxKNThnMVB6dC04UzJmOGRxN2l1ZU5WRmtDQ1J6V3pVSWZCaE9DdWx1SGZoVTFGejdCNlcyeE1WclVjNW1KUTVibEFDaThCclZQNl9BYzN4RFdMVnhvcFFQNFVRX1N3Zk5tWm4teHpzbkFXeUpyYVZ1VkVHVE1oOHFsU182TDB2TnRORTlIRDJzYXNpR24zYi0ybGVweVJaLTdBQWw1c0ZlMEhX?oc=5",
+      "summary": "Corinthians caminha para pior artilharia desde ano da pandemia; veja ranking LANCE!",
+      "publishedAt": "2026-11-15T10:00:00Z",
+      "source": "LANCE!"
+    },
+    {
+      "title": "Jornalistas apontam maiores ídolos da história do Corinthians",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNem9FR204UmdpV2FTeV8xTXBxRzljWFBQMlJLLTk3SThla3Bwa2Zwa1dQbV9yUkpCNmlEVlk0OTViM2xXV0VwcHkzVjNGNmFzVUVsTEEwM0VNUUN4S0FtYnM5bVdrZkktUF9FdHZrd211RjcyYjQ0bUtvN01QcUFUcHhqZDZmZXZUUTdpczV2ci1HMWlvQUFQam9LQjk3OHE5bnA2QlFR?oc=5",
+      "summary": "Jornalistas apontam maiores ídolos da história do Corinthians LANCE!",
+      "publishedAt": "2026-11-15T10:00:00Z",
+      "source": "LANCE!"
+    },
+    {
+      "title": "Sem Yuri Alberto, veja alternativas do Corinthians para enfrentar o Botafogo",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPOC1oZzY3LVVqYmFsTUZLOExBejgxUUtWamR6VUhKUHk1dDRJVUxMejZsRmpnN2FMd01QU28wOUhFZ1A5RnM5Z0RJeU9DS3FZclpBWGFrLXZmdmh6T21NdDBHbVIySjJ2US14bnhDSHBMOUVOUjF1TTZ4S0o1WGtnNzB4bGZHUnljUDlac2tnN2FiajJKakZmd3RFcEtkX1pZWVZaWXljOGV1UUg2cUhmUFR2bEJiaWstSVJKZDc2TU1ULTVPWldnYlV6RXlYM0szNFNDcGEtTGY4TzV1WEtkdi1BRFpyVy1JOTRIV2tIS0xhanNoLVRGWE5lOA?oc=5",
+      "summary": "Sem Yuri Alberto, veja alternativas do Corinthians para enfrentar o Botafogo Rádio Itatiaia",
+      "publishedAt": "2026-11-15T07:15:05Z",
+      "source": "Rádio Itatiaia"
+    },
     {
       "title": "Corinthians pode ter apenas dois zagueiros à disposição de Seedorf contra o Botafogo",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUjNPRUJIRzctMWRUVXhnb0lWTzlyQm0xYklfbG0xX0wyblVzY21rNTdhOTNxd3NDTVFJc21oWGdiR2d6VE1uNUJhXzJrbjdDc0xNRUJvaUFJR3hzN1YzN0pGdEVVLXgtMFBPVzB4RHZkZTZPUFZMNkVxSFkzeC1rYWhzc1VOcWVaRnF3ME9LTnhtdDRtaXktU1M1VUY1bnpMeUdFa3hwb1dJUk5LdXBBUnU0anJaRGIzcnFhNHBlQUx2X09UMFd6OEVUSjhURnFIZVdlamtLV09jWjBVTWRJS1oxdDZBTjAtTi1DatIB-wFBVV95cUxQOGVGbEtVYnozdzY5QXhrZ2FTbTdkTDdxaEdTdkVXVGM5RkFUTDlRY2lRUGtNNUhjMlhGYWdMejdMbnlESWpMRTJpWU9nbEJ0U3hUa0ZERkZmZG5lTGtaY3JMejU1eEFwcl94eUZfZ2JEWWtaOTBpeTFvYy13cXBaMFMycEJTbzhsd1dNa3NNTTRCTHhYT09EYkFuOExJLXBxbVFKb3EteHRwM1UxLUpROVRyQkwxUXJKNlJEX01ETnRvYUlVX3FkbjMzOU5KZno2b181ejFKTE82cnl6UFBlTzUzOXRpODVrLTJPMWlrb3VId3k4dm9palhvYw?oc=5",
@@ -26,10 +75,10 @@
     },
     {
       "title": "Corinthians terá de abrir os cofres se quiser manter Kaio César para 2027; saiba o valor",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWHFmS2Q2My1zRFdMcGVUQ0tTaWVMQWl0UTl2M1M4ZHRTNWNDbHJvdFZsNlY0TUQyRWM1R0Z3Vmw3LUM1S21ab0lMb2FxTW1NcndxR1ZZZ3JZTDA4SGpPUC1fTTVMMkRHM3FUdXZhS084Mkh4VTlyTHZxWU9mWUE2SHpjcXh3Qlo5NGpPRHYxMC1MVWxGU3RrUzFJUzJ3aVlfNTFRaFRVZ0pWMEZTdG5tT01MLWFoakdraldEcWtpRGx4VVpaR1dzMTdZcXg3WERSRkJtcVYzQm50b00wME01UlF6UGl1SHZydmZkNnBBVmdLOXl6d001WkZzcHFrazFYZlh0ZG5scjJIcnc?oc=5",
-      "summary": "Corinthians terá de abrir os cofres se quiser manter Kaio César para 2027; saiba o valor Terra",
-      "publishedAt": "2026-11-15T01:37:00Z",
-      "source": "Terra"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWHhGbFNsY1RLekFSS0JuU045cDJ0SEVXY0NrMGJ2WWJXb0REUHpDWDhRVjlpbUFJVjZlc0o5WEpIeWJQeTVnTkRGV0JDZWw2d2pFUDVkTnVyUnhnQ211N09qRG52YVVEWnlLcGM4WGdORmVQNHNtMFdqT2dYWmQwbW1Zc1ZXNnNOdmVVVXdMTW5Jcjl4YkZXX1JUajdiWTVFd0JKNHF2QTluTkZlVF9TQnJyTk1IV19EamF5enFKMUViRnpVN01B?oc=5",
+      "summary": "Corinthians terá de abrir os cofres se quiser manter Kaio César para 2027; saiba o valor CartaCapital",
+      "publishedAt": "2026-11-15T01:36:00Z",
+      "source": "CartaCapital"
     },
     {
       "title": "Seedorf é direto ao falar sobre a torcida do Corinthians e manda recado",
@@ -58,55 +107,6 @@
       "summary": "Notícias do Corinthians hoje (14/11): Garro, recurso por Yuri Alberto e renovações Revista Oeste",
       "publishedAt": "2026-11-14T19:53:42Z",
       "source": "Revista Oeste"
-    },
-    {
-      "title": "Corinthians emite nota oficial sobre Rodrigo Garro",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0t3MmVBcVVmMm90cXF4dUJydFMtcjVqWE4xdGhwaFhqWFFrN1BDeWtEUC12VXZ0SFBZWlBJT2JpekZoQS1KOS03UFFUU0dCRWpGX3JlaGR3LVNCT0dDS05QbzYxVHJzWjZja3FDVFdoMXE5OWNHU0JtZHpQUTlCLThfcklJaHJaNlVobTA4X1NKMHV0RURvT0hMNThnNTVrNmhRQkFoUTcwU2NBdlRIQ1JMdmROc2kwU3JKX1dQbTdPTEo2X291Qko4REpzbkxDVXBFZXFhclpUZw?oc=5",
-      "summary": "Corinthians emite nota oficial sobre Rodrigo Garro Terra",
-      "publishedAt": "2026-11-14T19:47:00Z",
-      "source": "Terra"
-    },
-    {
-      "title": "Matheuzinho recebe homenagem por completar 150 jogos pelo Corinthians",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRTJ1VVZzQzZUdzNWbUNKR3FMMDJRa2tONG1tQmY3Tl80WjlDMDg1Z1NxRk42ZWVhTzRzS3JjblYxbU1nMHM3UGlUM1lwMjU2Wlh4Y2xZb2ZEd2ZfVjVObTk4OGVENFBuT0pXbVh3bVpsWkp5enRPUFNtWGY0SHo2Q1NPNDYwaENwUF9tc3V5bTZVbEhGaVVQTW53eDJ3Rm1pTjEwQl9ZbnhYM293aHJJeGc3YXlRSVNkYWlCcldGTHpaeXJ2dklBQVJXY0doXy1zZWdRLXVNVTBsQ2pPZGdVRV8zS3VTY1VMZU5MY0I4LTNxNlk?oc=5",
-      "summary": "Matheuzinho recebe homenagem por completar 150 jogos pelo Corinthians Terra",
-      "publishedAt": "2026-11-14T18:34:00Z",
-      "source": "Terra"
-    },
-    {
-      "title": "Matheuzinho é homenageado por marca de 150 jogos pelo Corinthians",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUTlJalp3b1hmQ2MwUl9UTE0wMnNvZS1ZeW5nREVMREZaWXV5ZTJ2WXloaEZmc18zS3RCc2dJbDJDa0pyNkoxblRucFZ6aTVQa2J3X0ltMHh2S1czZUFjWHQ2Q0ZCUElEWGh4RTZTaE5aTUNrelZSRl9PNklxbEl6Wjh1UGpucHhFX0o1YkdkSHh5UmxBS0R0d05MamVYRkdQVHRuejk4Yk91VTBHNEtqSVplbmE5ODTSAbwBQVVfeXFMTnBSajJTRjBGRXBWZjhNYmpfZVpBYVZLTVE3d0ZHLWF6VlZiUk0xY3djZlhJX0pLbjlqMmlZQlFxMkNDNU9qSkV4YzJta2pSbDZsbVBSMlF3SmRNOXVMNkxUZktsc1pIeHJtYTRjVmx6dWhnZmRTbFhHWlRCVkdUd0FUSVh6akhBNk84Y1ROSFB1WUZJTzB2QW9GYmc5dTBEN2lweXJSVXFGd2dKUHMxaURZLXBXd3ZWeU5LSjI?oc=5",
-      "summary": "Matheuzinho é homenageado por marca de 150 jogos pelo Corinthians Gazeta Esportiva",
-      "publishedAt": "2026-11-14T18:22:00Z",
-      "source": "Gazeta Esportiva"
-    },
-    {
-      "title": "Matheuzinho recebe placa em homenagem aos 150 jogos pelo Corinthians",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZnFabG5JWGVQSzBTRWJ2ZFBySFJKLXl1Rl82VG1TV1RmS1k2QU4zSjR0T2FseHhJcy05ejQ2RGdJakxMeEtPby1EV0lrMGpTLUVUWW1ybXhLQXJsWlpCRzdSbUt6c21YdzNQRGpYbkZucnpDa1FjMGk3eFpId1h5NkQzdnEydHQyVFAtZXJnR0p0VVFqeXlIdTNnckZGcVBlSFBkNUFsWVdvQkI4X1lqdmlSNU9TMUhXbmpkajJGU0dHelFiTjVBbmZMS05KQUhNZkZLUXQ1SdIB5gFBVV95cUxQdnkzOGVISW5rY3otTk14VVV0VlAzbUMwSE1lWFYwNDhHZG9pdEpZT0dMRE5KREgyQjBoOE9RLThkZVNxMGtDUndDNHJldGo0R1JJX3BFN25NWl9YUXR0Wl9MaUFzWmdtZVVhalRpYXBVX3Ixb01zdG9LSDZmYlhRbFQzelBIUDJIa2FNOXBuc3NiQ1NHMjRXM1BoaDFKSURqczU4WHl6WEVlVFh3X0VJd3cxdEpNbkJhSDIwYmcwSFk2em5jQnpkVVRXTVdlSHdhc0dJZHY3LUNTWUVEREh0X29ZMzdNZw?oc=5",
-      "summary": "Matheuzinho recebe placa em homenagem aos 150 jogos pelo Corinthians ge",
-      "publishedAt": "2026-11-14T17:34:14Z",
-      "source": "ge"
-    },
-    {
-      "title": "Lateral é homenageado pelo Corinthians após atingir marca de 150 jogos pelo clube",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSng0NEhucU1scGN6WFFGLUFucVctMVpkcUZFUXdvbGUwWHpPNEFCaFdWLVBMNU15RmJrN2p6X1JKSlNzczUxbFhPYk5Kcjg2dWdtM2lqMVA3NU9QQk1hclA5QTBQU0Q0ZFlGSURaOUM0VDhLRG10UW84TldxNENWWHlfVklJQWZSNUdVZDBHMUc5MjIyWmVlcndNQlVzLUY1ZEtRZnhpMGlIX2hkYzdVOUNGdUw4Yzk4Y09ka3lfRmNNN1dpMGplV192SzJXcEQyWVFaTHlQNNIBxwFBVV95cUxOUXdDYkxFOXVhdWhidngwZy1iS2hhQW1nZzBGSlR1MmFwWERQQkJUdVVRTUFkbVpYVkZiZjYyUHM0MFlneHNrQ3lZQWhBeVBUejRXRzd6QkpHTHhSRVpGY25FUkpFaGdEcHBucUpVZXVjRmtITzktTVhsX2M5cDktRElSWFR6R1dmczhnbHk3QkpHelYwcXRncVdIdFRrcGtBQjg3UmhMQWtDRmdVczFlVHNHTFhOaUd3SjRfMzRvTHR5ZHAzZWpR?oc=5",
-      "summary": "Lateral é homenageado pelo Corinthians após atingir marca de 150 jogos pelo clube Meu Timão",
-      "publishedAt": "2026-11-14T16:31:00Z",
-      "source": "Meu Timão"
-    },
-    {
-      "title": "Corinthians assina com jogador de R$ 623 milhões e lateral deve deixar o clube",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRHFHUDY5UW9HU3R0SjloeTZhdkxldnQ0NWtOOC1aYUtkcV9WLXlpZlNkQ1NYTklVbEFYM1BOdmRhV3U5NzFYM2xLeC12ZjhwRWh1WFZGcnZ0bVNzVllBaS1HWFhYUmh5Q0MxV1FLNFpNM2ZWcXhlUzRJemhxcjJDMkFCN2M3Uml2VXNidGVOLTJLSWE0SnVlZVh0TU11R0xKQ1FZa0JiS2xScXJTRnV5MHo0bldXSVc1SjJDclBveGI?oc=5",
-      "summary": "Corinthians assina com jogador de R$ 623 milhões e lateral deve deixar o clube www.jornalcruzeiro.com.br",
-      "publishedAt": "2026-11-14T16:00:00Z",
-      "source": "www.jornalcruzeiro.com.br"
-    },
-    {
-      "title": "Danilo intensifica tratamento e pode ficar fora do jogo contra Corinthians",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR2Zxck42NHcyOWRQcFNLWDVhWmZOOGh3Qjl2TEVoTzdOeTJGVWF3dmFlV3VuOE1kRzExTXREZ05xdDI5NFUwNHhXVXhUbGRfOXpYZFZ3emlOVjdSZ01xVkRnQ3ZOcnQySENsQXZwbG1wQXBZLXpkZ05ZMGxlM3NYV0tJSGFMa3pIeXdSQ04xOS1zU04teDVNR0l4T01qR1Fia3JHNGgydUZOelE?oc=5",
-      "summary": "Danilo intensifica tratamento e pode ficar fora do jogo contra Corinthians Futebol Sergipano",
-      "publishedAt": "2026-11-14T15:35:29Z",
-      "source": "Futebol Sergipano"
     }
   ]
 }
