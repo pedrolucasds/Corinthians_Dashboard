@@ -1,8 +1,15 @@
 {
-  "updatedAt": "2026-11-14T20:46:13Z",
+  "updatedAt": "2026-11-15T00:25:25Z",
   "source": "Google Notícias · Corinthians",
   "feedUrl": "https://news.google.com/rss/search?q=Corinthians+futebol&hl=pt-BR&gl=BR&ceid=BR:pt-419",
   "items": [
+    {
+      "title": "André estreia pela Seleção e quase marca; viagem tira volante do Corinthians",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOemlMSEtwRWxXcVFRWFpTUDJ5MWtySnVhYnNmbWdlOFI5U0hBY3VqOGVmQTFnUWhPWm10ZzBfNXktMGtlcFpLaGl1am5pazJWRmxxb0ZBNlY2RW9VMG5TQktPb1lDUFZEb3JKQ3AyNEpfSmp1QkNoWkVtcURyejhCMjk5emlRclZNRTF5a3ZWc2RYLTlNYklOamhYejZYYjVCUkZjWWxKVlQ1eVUydXRpMXRPdml1WXI1?oc=5",
+      "summary": "André estreia pela Seleção e quase marca; viagem tira volante do Corinthians brasileirao.com.br",
+      "publishedAt": "2026-11-14T23:51:07Z",
+      "source": "brasileirao.com.br"
+    },
     {
       "title": "Futebol Feminino: Corinthians encerra semana de treinamentos no CT",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQU16YVI2eDUyOWtnR0gyTUxMcDd5WDNSRGFLRzBiVHo0SnMzTHExNmtMancxdlJBVVRhMWlUU3NBTnNFZ0hZekp6WF9ORWRHTDRJdzk3SlZxMGNiTlVGRC1XaWh5cG90XzhXTGd3aHg5Tnd4NFlUZ1hQWDJuTVBzb1lwbnprcUhiTVFSRS1kVXROUDZHVGlMV0l3dmFlY2REYVpEdnhyVnk?oc=5",
@@ -30,13 +37,6 @@
       "summary": "Corinthians emite nota oficial sobre Rodrigo Garro Terra",
       "publishedAt": "2026-11-14T19:47:00Z",
       "source": "Terra"
-    },
-    {
-      "title": "Inter e Flamengo fazem primeira final nacional feminina sem clubes paulistas em 15 anos",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOUFZSVTRfV2lFckJvdGhzVTJUc09ETXV2anNDUWp3N2VyUTE0dzdhdExnalVuT3ZLOEthNnJ2QWJkMW1SRjZaWnEtQ1VnYU5kb05VOFpUOFJzWDFIWnRjSE02VFVfeExSSjByaUp3cUxhLWJNTUE0MWNrcmRvUnFmanE1czA3MkpyVWM2MGpKSEZjMVFRY2I0NTJYMGotNmFFc3hYN3JXY3JCU3ozMTU2V1MtT245TUJISjI1bmxoQ3VlQ0t1MVlZX2FESzFkbnZjU0U0VU9TRldyQnk3bUUxdmZ6OWJhWmZ3OGN1aFh2MDlkaFNKVUd4cEdDQVBHanR5QmJuOHZEUDR3STVtNFZxbW1uONIBogJBVV95cUxPTXJPaHZrN2xuSkFsN3hEckx1d3ZmOGU0RVJjUXFZd1JmUTk2bktldjZVVE9LbzlUVTMySGd3VFRGakRQc2o4cE1qbkkwbklla0FrMHo2LUNYckRfQjQ0MnNBdUMxYlN0YkJma2kwNDA4bWY4LTJ4eWgxQkhaaEFPbEFJdVd1TjlsQUduUktZUUNDdmhPMWZsZVRYVkxkUUNQWkQtQ0JRMDdfZGtRelIyekFiT3hackZ5UmpUV2FoMFc2VHFqZkpsZnZyUThRaHExU1VIakVJbWRZbUFjWkR1SjhvdWQtSC1VTHJfMVZRdGMxZDBnVUVfR19vU01QQV83WmVLSTRvcjVyX0MxUFQtUG5SMDNWZDM1dVpWbV9IalNfUQ?oc=5",
-      "summary": "Inter e Flamengo fazem primeira final nacional feminina sem clubes paulistas em 15 anos ge",
-      "publishedAt": "2026-11-14T19:26:20Z",
-      "source": "ge"
     },
     {
       "title": "André estreia pela Seleção e quase marca; por que desfalca o Corinthians?",
@@ -95,9 +95,9 @@
       "source": "LANCE!"
     },
     {
-      "title": "Rio Branco-AC confirma contratação de goleiro ex-Corinthians para próxima temporada",
+      "title": "Rio Branco-AC acerta contratação de goleiro ex-Corinthians para próxima temporada",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUDl0WDl1d2tTME5rTzlmUjNBWnM1ZlNTZkJ0VXVGNnkyU0UxNjdlY3RSQ3gwS2F2b2RxWlBNb0ttZ0k2anlnOTItdVJlNGxHQkpQX2RPRE5abTVic1pqcm5BNjlfV1R0LWpReW5fOXZGa2Flc2NlYlJYTmpOSG9WSjZHRzlTY2w4VExBWkJaUEVKLXRwUl9SbGRaMG1odm83Y0daWG5zOUZ6RHBDOHF6RGd5X0FMcmtBUGM5YlVHNFlfTUw2NFdmV01BUHNrb3FoOG8td2pPT2paUDhXQUN3SlJsdEtldmp4QV9GOFZ4cHBfQdIBgAJBVV95cUxOYW03Mk5Yb0NlcVFyN2RzT28tZXYtVldEODItU0JjcGdoSUU3Z2xGQng3YXhIZ0FoLUJqRHpFYXZzSy14SXhqRTJlVDh3VzZ6dWtOMW9ZQ1lraW1VWENTbE9NbFN4bElKTmRlSFZZS2ljV3o2VzNMY3ZsMDJKajdoNTIwbEd2dzJ2OWpjai0xM3VUY2hYaHhUMzZseGI2ZDZwWHphNlNXVGhJdWRyMUxZeV9FMjd0aEJSdld1WnZnZER0TFJPcmZVc1NsWll6TGZFLUFBaVJ6MzVGeWxMNFV3VDVfT0ZkWlFaTkJUMVZnYnREUWdzejJ1UEdkVmhmU2NK?oc=5",
-      "summary": "Rio Branco-AC confirma contratação de goleiro ex-Corinthians para próxima temporada ge",
+      "summary": "Rio Branco-AC acerta contratação de goleiro ex-Corinthians para próxima temporada ge",
       "publishedAt": "2026-11-14T14:48:49Z",
       "source": "ge"
     },
